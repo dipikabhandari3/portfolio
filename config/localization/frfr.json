@@ -1,0 +1,90 @@
+{
+	"id": "dipika-portfolio",
+	"navbarMenu": {
+		"labelHome": "HOME",
+		"labelServices": "SERVICES",
+		"labelAboutMe": "ABOUT ME",
+		"labelPortifolio": "PROJECTS",
+		"labelExperience": "EXPERIENCE"
+	},
+	"landingPage": {
+		"apresentationText": "I am,",
+		"resumeText": "🕵️ Cybersecurity professional with Master's in Cyber Forensics and Security from Illinois Institute of Technology. 🔒 Experienced in penetration testing, vulnerability management, and network security with expertise in Kali Linux, Metasploit, and security frameworks like NIST-800 and ISO 27001. 💡 Proven track record in teaching, technical support, and developing secure systems with strong analytical skills.",
+		"buttonText": "About Me"
+	},
+	"servicesOffer": {
+		"title": "My Services",
+		"cards": {
+			"forensique": {
+				"title": "Cyber Forensics",
+				"contentText": "Advanced skills in digital forensics using Autopsy, Wireshark, and other forensic tools. Expert in incident response, threat intelligence, and evidence analysis for cybersecurity investigations."
+			},
+			"reverse": {
+				"title": "Penetration Testing",
+				"contentText": "Expert in identifying vulnerabilities through structured penetration testing using Metasploit, Nmap, Burp Suite, and Kali Linux. Specialized in network security assessments and exploitation analysis."
+			},
+			"devsecops": {
+				"title": "Security Assessment",
+				"contentText": "Comprehensive vulnerability management and security assessments. Expert in policy compliance, risk management, and implementing security frameworks like NIST-800, ISO 27001, and OWASP standards."
+			},
+			"domotique": {
+				"title": "Network Security",
+				"contentText": "Extensive experience with Cisco equipment, Mikrotik devices, and network troubleshooting. Skilled in configuring secure networks, VPN connections, and implementing Zero Trust architecture."
+			},
+			"developpement": {
+				"title": "Security Training",
+				"contentText": "Proven teaching experience as CCNA tutor and technical support specialist. Expert in delivering training on networking protocols, security concepts, and hands-on cybersecurity skills development."
+			}
+		}
+	},
+	"aboutMePage": {
+		"title": "WHO AM I?",
+		"paragraph_one": "I am a cybersecurity professional with a Master's degree in Cyber Forensics and Security from Illinois Institute of Technology, where I graduated with Summa Cum Laude honors.",
+		"paragraph_two": "My expertise spans penetration testing, vulnerability management, and network security. I have hands-on experience with industry-leading tools including Kali Linux, Metasploit, Burp Suite, and Splunk. I'm well-versed in security frameworks such as NIST-800, ISO 27001, and OWASP, with a strong focus on implementing Zero Trust architectures and ensuring policy compliance.",
+		"paragraph_three": "Beyond my technical skills, I have a passion for teaching and knowledge sharing. As a former CCNA tutor and teaching assistant, I've helped students understand complex networking concepts and practical cybersecurity skills. I believe in continuous learning and am currently pursuing CompTIA Security+ certification to further enhance my expertise in the field.",
+		"github_card": {
+			"followers": "followers",
+			"following": "following",
+			"repos": "repos"
+		},
+		"alt_dev_img": "Dipika Bhandari"
+	},
+	"portifolioPage": {
+		"title": "PROJECTS",
+		"labelFilter": "ALL",
+		"createdLabel": "Created on"
+	},
+	"experiencePage": {
+		"title": "EXPERIENCE",
+		"timeline": {
+			"labelPosition": "Position",
+			"labelTitle": "Title",
+			"labelCompany": "Company",
+			"labelCategory": "Category",
+			"labelInstitution": "Institution",
+			"labelProfessionalCourse": "Professional Course",
+			"labelBachelorDegree": "Bachelor's Degree",
+			"labelExtensionCourse": "Extension Course"
+		}
+	},
+	"footer": {
+		"labelNavigation": {
+			"title": "Navigation",
+			"labelHome": "Home",
+			"labelServices": "Services",
+			"labelAboutMe": "About Me",
+			"labelPortifolio": "Projects",
+			"labelExperience": "Experience"
+		},
+		"labelHost": {
+			"title": "HOSTING"
+		},
+		"labelSourceCode": {
+			"title": "SOURCE CODE"
+		},
+		"labelTechs": {
+			"title": "TECHNOLOGIES"
+		},
+		"labelBuildVersion": "Version"
+	}
+}
